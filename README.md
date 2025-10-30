@@ -1,2 +1,3 @@
-# I-DONT-KNOW-
-this is just a practice repository
+MIDTERM PROJECT
+Indi ko kabalo mag upload
+
